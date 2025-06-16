@@ -1,3 +1,10 @@
+### 🗓️ 미션 일정
+
+| 단계  | 내용        | 기간                      | PR 링크 |
+|-------|------------|---------------------------|---------|
+| Step1 |  | 2025.05.13 ~ 2025.05.22   | [PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/245) |
+| Step2 |  | 2025.05.22 ~ 2025.05.30   | [PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/307) |
+
 # 방 탈출 예약 대기
 
 ## 기능 요구사항
